@@ -22,7 +22,7 @@ const HistoryItem = props => {
           className="delete-button"
           type="button"
           onClick={onDelete}
-          //   testid="delete"
+          testid="delete"
         >
           <img
             src="https://assets.ccbp.in/frontend/react-js/delete-img.png"
